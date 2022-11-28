@@ -1,0 +1,47 @@
+.span-1 {
+  padding: 4px 8px;
+  border-radius: 100px;
+  margin-top: 50px;
+  background-color: green;
+}
+.span-2 {
+  color: #b6a8e1;
+  font-size: 20px;
+}
+.first {
+  background-color: #0b1320;
+  height: 100px;
+  padding-top: 30px;
+  padding-left: 30%;
+  padding-bottom: 5%;
+}
+.second {
+  height: 400px;
+  background-color: skyblue;
+  display: flex;
+  padding-top: 10%;
+  padding: 15%;
+  justify-content: space-between;
+}
+.btn-1 {
+  background-color: blue;
+  color: white;
+  padding: 10px 30px;
+  border: none;
+  font-size: 20px;
+}
+.btn-2 {
+  background-color: skyblue;
+  padding: 10px 30px;
+  font-size: 20px;
+}
+.second-2 {
+  position: relative;
+}
+.four {
+  position: absolute;
+  margin-left: 68%;
+  margin-top: 21%;
+
+  background-color: black;
+}
